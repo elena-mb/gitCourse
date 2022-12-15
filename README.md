@@ -1,1 +1,1 @@
-# gitCourse! !!!
+# GitHub Course !
